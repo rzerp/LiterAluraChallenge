@@ -22,8 +22,8 @@ Las dependencias a agregar al crear el proyecto en Spring Initializr son:
 - Postgres Driver
 
 ### Cómo probar esta API
-1. Modifica el archivo `application.properties` ubicado en `./literalura/src/main/resources/application.properties`, reemplazando las variables `DB_NAME`, `DB_USER` y `DB_PASSWORD` con los datos de tu base de datos Postgres o declara las variables de entorno en tu sistema operativo.
-2. Ejecuta el archivo `LiteraluraApplication.java`.
+1. Modifica el archivo `application.properties` ubicado en `./LiterAluraChallenge/src/main/resources/application.properties`, reemplazando las variables `DB_NAME`, `DB_USER` y `DB_PASSWORD` con los datos de tu base de datos Postgres o declara las variables de entorno en tu sistema operativo.
+2. Ejecuta el archivo `LiterAluraChallengeApplication.java`.
 
 ### Funcionalidades
 El programa ofrece las siguientes opciones en el menú principal:
